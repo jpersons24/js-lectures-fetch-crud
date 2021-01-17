@@ -30,5 +30,11 @@ const animalData = [
     imageUrl: "https://live.staticflickr.com/4158/33752020123_eab52e719d_b.jpg",
     description: "They have cube-shaped poop. Wombat poop is square. They mark their territories by defecating, and it's thought that the shape of their poop keeps it from rolling away.",
     donations: 0
+  },
+  {
+    name: "Turtle",
+    imageUrl: "https://www.pirateshipvallarta.com/blog/wp-content/uploads/2018/12/sea-turtle-nests-in-mexico-what-to-know-1280x720.jpg",
+    description: "Turtles can live to be over 100 years old. In the polynesian culture, the sea turtle in particular is known as a symbol for strength and perseverance.",
+    donations: 0
   }
 ]
